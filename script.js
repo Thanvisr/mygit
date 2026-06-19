@@ -10,6 +10,6 @@ function div(a,b){
     return a/b
 }
 
-function mul{
+function mul(){
     return a*b
 }
